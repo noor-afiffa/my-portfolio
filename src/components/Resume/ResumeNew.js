@@ -26,7 +26,9 @@ function ResumeNew() {
                 key={`page_${index + 1}`}
                 pageNumber={index + 1}
                 scale={width > 786 ? 1.7 : 0.6}
-              />
+              >
+              </Page>
+
             ))}
           </Document>
         </Row>

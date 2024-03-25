@@ -76,22 +76,21 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
-  { name: "ReactJs", initialRating: 4 },
-  { name: "React-Native", initialRating: 4 },
+  { name: "Nodejs", initialRating: 4 },
+  { name: "ReactJs", initialRating: 3 },
+  { name: "Angular", initialRating: 3 },
   { name: "JavaScript", initialRating: 4 },
-  { name: "Redux", initialRating: 4 },
-  { name: "Shopify/Reactjs", initialRating: 4 },
-  { name: "Nodejs", initialRating: 3 },
-  { name: "Koajs", initialRating: 3 },
   { name: "Html", initialRating: 4 },
   { name: "CSS", initialRating: 4 },
-  { name: "Unit-Testing(Jest)", initialRating: 3 },
   { name: "TypeScript", initialRating: 4 },
-  { name: "Graphql", initialRating: 4 },
-  { name: "Apollo", initialRating: 4 },
-  { name: "AntD | ReactStrap | Material UI", initialRating: 4 },
-  { name: "Shopify Polaris", initialRating: 4 },
   { name: "Git", initialRating: 4 },
+  { name: "SQL", initialRating: 4 },
+  { name: "MySQL", initialRating: 4 },
+  { name: "MongoDB", initialRating: 4 },
+  { name: "IBM DB2", initialRating: 3 },
+  { name: "IBM Cloudant", initialRating: 3 },
+  { name: "Troubleshooting", initialRating: 3 },
+  { name: "Technical Documentation", initialRating: 3 },
 ];
 
-export const TOOLS = ["Visual Studio Code", "Git", "Chrome DevTools", "Npm (Node Package Manager)", "Atom", "Sublime Text", "Linux", "Heroku", "Postman"]
+export const TOOLS = ["Visual Studio Code", "Eclipse", "Canvas", "Git", "Chrome DevTools", "NPM (Node Package Manager)", "Postman", "SoupUI", "Linux", "Data Studio"]
