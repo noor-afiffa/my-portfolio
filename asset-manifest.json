@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.e55820be.css",
-    "main.js": "/my-portfolio/static/js/main.a0dd7a29.js",
+    "main.js": "/my-portfolio/static/js/main.a05f374c.js",
     "static/media/travelwell.png": "/my-portfolio/static/media/travelwell.772033dc973fe6cbd837.png",
     "static/media/cosmos.jpg": "/my-portfolio/static/media/cosmos.19ad09343fc726dc22c6.jpg",
     "static/media/goodFoodDiscounts.png": "/my-portfolio/static/media/goodFoodDiscounts.9b9dd889365791020505.png",
-    "static/media/Noor_Resume.pdf": "/my-portfolio/static/media/Noor_Resume.844869a048a7b7a90b1b.pdf",
     "static/media/developer.jpg": "/my-portfolio/static/media/developer.23e159bedb27f3e8dcb6.jpg",
+    "static/media/Noor_Resume.pdf": "/my-portfolio/static/media/Noor_Resume.02325cfef0c4ca94a29b.pdf",
     "static/media/coast.jpg": "/my-portfolio/static/media/coast.54b1b992952a844614b7.jpg",
     "static/media/noor.jpg": "/my-portfolio/static/media/noor.a37ac1d712f89fdbc7ab.jpg",
     "static/media/dropship.jpg": "/my-portfolio/static/media/dropship.b52fa0a127e9f395d54c.jpg",
@@ -14,10 +14,10 @@
     "static/media/techspec.png": "/my-portfolio/static/media/techspec.3b34aad004bc1d61d5e7.png",
     "index.html": "/my-portfolio/index.html",
     "main.e55820be.css.map": "/my-portfolio/static/css/main.e55820be.css.map",
-    "main.a0dd7a29.js.map": "/my-portfolio/static/js/main.a0dd7a29.js.map"
+    "main.a05f374c.js.map": "/my-portfolio/static/js/main.a05f374c.js.map"
   },
   "entrypoints": [
     "static/css/main.e55820be.css",
-    "static/js/main.a0dd7a29.js"
+    "static/js/main.a05f374c.js"
   ]
 }
